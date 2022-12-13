@@ -8,7 +8,7 @@ All symbols are located within the [TimGollLin.kicad_sym](./TimGollLib.kicad_sym
 
 ### AD817
 
-<img src="assets/AD817.svg" style="float:right; height: 120px">
+<img src="assets/AD817.svg" alight="right" height="120px">
 
 The AD817 is a low cost, low power, single/dual supply, high speed op amp which is ideally suited for a broad spectrum of signal conditioning and data acquisition applications.
 
