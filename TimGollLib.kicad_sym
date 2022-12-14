@@ -302,7 +302,10 @@
     (property "Footprint" "" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.buydisplay.com/download/ic/SSD1306.pdf" (id 3) (at 0 -38.1 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "ki_description" "the 30 pin connector for SSD1306 based OLED displays" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "SSD1306_0_1"
