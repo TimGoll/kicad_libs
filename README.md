@@ -15,3 +15,11 @@ The AD817 is a low cost, low power, single/dual supply, high speed op amp which 
 **Datasheet:** https://www.analog.com/media/en/technical-documentation/data-sheets/AD817.pdf
 
 ## Footprints
+
+### LDD-700LS
+
+- model source: https://ms.componentsearchengine.com/detail.html?searchString=LDD-700LS&manuf=Mean%20Well&country=GB&language=en&source=1
+
+### RaspberryPico
+
+### Esp32-S3-Wroom-1
