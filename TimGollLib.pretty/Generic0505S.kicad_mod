@@ -49,4 +49,9 @@
   (pad "2" thru_hole circle (at 3.18 -5.07) (size 1.85 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 9249b584-b636-43f9-801e-a4c0f2ab52bb))
   (pad "4" thru_hole circle (at 3.18 0.01) (size 1.85 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 8a9aa3c5-7454-4c27-8748-97794ee37bb7))
   (pad "6" thru_hole circle (at 3.18 5.09) (size 1.85 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 55c0ec30-fe06-4413-8ae6-d572538bb1f0))
+  (model "${TIMGOLLLIB_FOOTPRINTS}/Generic_0505S.wrl"
+    (offset (xyz 1.14 -0.15 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 90))
+  )
 )
