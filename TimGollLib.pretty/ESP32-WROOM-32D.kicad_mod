@@ -152,7 +152,7 @@
       )
     )
   )
-  (model "E:/__ git/kicad_libs/TimGollLib.pretty/3d/ESP32-WROOM-32D.step"
+  (model "${TIMGOLLLIB_FOOTPRINTS}/ESP32-WROOM-32D.step"
     (offset (xyz 0 3 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

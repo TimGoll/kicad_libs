@@ -25,7 +25,7 @@
     (thermal_bridge_angle 45) (tstamp aa077d99-970d-479f-8866-6eb6f2a12a78))
   (pad "2" smd rect (at 0.4975 0) (size 1.95 2.7) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 9017a347-e063-4fe3-97c8-bebbbe221686))
-  (model "E:/__ git/kicad_libs/TimGollLib.pretty/3d/led3535.stp"
+  (model "${TIMGOLLLIB_FOOTPRINTS}/led3535.stp"
     (offset (xyz 1.56 0 -0.1))
     (scale (xyz 1.1143 1.1143 1.1143))
     (rotate (xyz 180 0 90))

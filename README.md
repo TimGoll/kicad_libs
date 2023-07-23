@@ -2,6 +2,15 @@
 
 This library contains an assortment of symbols and footprints used in my KiCAD designs. The footprints do not contain any 3D models used in the 3D viewer.
 
+## Note on 3D models
+
+To use the provided 3D models in this library, you need to create an environment variable on the 3d folder path.
+
+- Open `Preferences` -> `Configure Paths...`
+- Create the new variable:
+  - Name: `TIMGOLLLIB_FOOTPRINTS`
+  - Path: <PATH_TO_THE_3D_FOLDER>
+
 ## Symbols
 
 All symbols are located within the [TimGollLin.kicad_sym](./TimGollLib.kicad_sym) file.
@@ -47,3 +56,10 @@ A footprint for an OLED display with ZIF connector [like this one](https://www.b
 Footprint for a [TagConnect 2030](https://www.tag-connect.com/product/tc2030-ctx-stdc14-for-use-with-stm32-processors-with-stlink-v3) programming port on the PCB.
 
 ![TC2030 rendering](assets/tc2030.png)
+
+### USB Type-C 3.1
+
+A Footprint for a typical USB 3.1 Type-C receptacle.
+
+![USB TypeC rendering](assets/USB-TypeC-3.1-SMD.png)
+[[external 3d model source]](https://grabcad.com/library/usb-type-c-smd-12pin-smd-1)

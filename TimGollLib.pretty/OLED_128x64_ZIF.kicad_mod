@@ -134,12 +134,7 @@
   (pad "30" smd rect (at 7.25 -1.85) (size 0.3 1.3) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 7d5f7718-f2c4-4f5f-b513-096804765ff9))
   (pad "MP1" smd rect (at -8.79 0.5) (size 2 3) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 3944e9f4-6aeb-46a9-892d-ea7b35a9bc72))
   (pad "MP2" smd rect (at 8.79 0.5) (size 2 3) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 694dd041-447d-4747-bf2b-0b626b3049ba))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH12-30S-0.5SH_1x30-1MP_P0.50mm_Horizontal.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "E:/__ git/kicad_libs/TimGollLib.pretty/3d/128x64_oled_display_1.6mm.wrl"
+  (model "${TIMGOLLLIB_FOOTPRINTS}/128x64_oled_display_1.6mm.wrl"
     (offset (xyz 0 3.5 0))
     (scale (xyz 0.385 0.385 0.394))
     (rotate (xyz 0 0 0))

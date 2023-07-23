@@ -59,7 +59,7 @@
   (pad "S1" smd rect (at -4.77 1.214) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 33dc0fd1-f02a-4ff9-8848-6abab3610186))
   (pad "S1" smd rect (at 4.77 -2.686) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 46ad57e3-12ef-4474-96b6-17695250ba60))
   (pad "S1" smd rect (at 4.77 1.214) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ef7114f1-bd5d-4795-983f-45584e459039))
-  (model "E:/__ git/kicad_libs/TimGollLib.pretty/3d/USB_type_C_smd_12ps.stp"
+  (model "${TIMGOLLLIB_FOOTPRINTS}/USB_type_C_smd_12ps.stp"
     (offset (xyz 0 2.1 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
