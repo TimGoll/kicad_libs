@@ -63,3 +63,10 @@ A Footprint for a typical USB 3.1 Type-C receptacle.
 
 ![USB TypeC rendering](assets/USB-TypeC-3.1-SMD.png)
 [[external 3d model source]](https://grabcad.com/library/usb-type-c-smd-12pin-smd-1)
+
+### Generic 0505S
+
+A generic 0505S isolated DC/DC converter housing that is compatible with modules such as [this one](https://www.lcsc.com/product-detail/Power-Modules_JETEKPS-IF0505S-2W_C5198685.html) or [this one](https://www.tracopower.com/de/deu/model/tmv-0505s).
+
+![tie hook rendering](assets/generic_0505S.png)
+[[3d model file]](3d_model_source/Generic_0505S.FCStd)
