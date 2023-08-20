@@ -43,6 +43,7 @@ An off the shelf 700mA LED driver package by Meanwell.
 A generic footprint for XSSY SMD LEDs.
 
 ![LED XSSY footprint rendering](assets/LED_XSSY_3.9x3.9.png)
+[[3d model file]](3d_model_source/XSSY_3.9x3.9.FCStd)
 
 ### OLED 128x64 ZIF connector
 
