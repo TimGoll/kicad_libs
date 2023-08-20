@@ -30,6 +30,7 @@ The AD817 is a low cost, low power, single/dual supply, high speed op amp which 
 A basic tie hook that can be used to connect an oscilloscope probe or as a hook for an cable tie. It is modeled after [this hook](https://jlcpcb.com/partdetail/Ronghe-RH5019/C5199800).
 
 ![tie hook rendering](assets/tie-hook.png)
+[[3d model file]](3d_model_source/tie-hook.FCStd)
 
 ### LDD-700LS
 
@@ -77,4 +78,27 @@ A generic 0505S isolated DC/DC converter housing that is compatible with modules
 A 1.27mm IDC receptacle with the minimal shrouding to make sure the connector can only be plugged in one way. Is a perfect receptacle for a programming interface.
 
 ![FTSH-105-01-F-DV-K rendering](assets/FTSH-105-01-F-DV-K.png)
-[[external 3d model source]](hhttps://www.samtec.com/de/products/ftsh-105-01-l-dv-k)
+[[external 3d model source]](https://www.samtec.com/de/products/ftsh-105-01-l-dv-k) //
+[[3d model file]](3d_model_source/FTSH-105-01-F-DV-K.FCStd)
+
+### X8821WRS-03-9TSN
+
+A 3-pin JST compatible SMD connector. The pitch is a bit smaller (2.5mm instead of 2.54mm) but it works for 2 or 3 pins wide connectors.
+
+![X8821WRS-03-9TSN rendering](assets/X8821WRS-03-9TSN.png)
+[[external 3d model source]](https://www.helloxkb.com/Home/Goods/goodsInfo/id/8209/canmes_three/1) //
+[[3d model file]](3d_model_source/X8821WRS-03-9TSN.FCStd)
+
+## Standard Colors
+
+To make it consistent there are standard colors:
+
+| | R | G | B |
+|---|---|---|---|
+| Leads | 210 | 209 | 199 |
+| Mold Resin | 38 | 37 | 37 |
+| Beige Plastic | 228 | 227 | 207 |
+| Gold Flashing | 219 | 188 | 126 |
+|  |  |  |  |
+
+All colors are extracted from the [original KiCAD 3D models](https://kicad.github.io/packages3d/).

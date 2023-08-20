@@ -19,9 +19,9 @@
     (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 61d76e51-ea1f-4965-b356-09e82ae67d77))
   (pad "1" smd rect (at 0 0) (size 3 2.5) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp e7e9ba29-9123-40ad-af25-0a66eee8a2f8))
-  (model "${TIMGOLLLIB_FOOTPRINTS}/tie-hook.step"
+  (model "${TIMGOLLLIB_FOOTPRINTS}/tie-hook.wrl"
     (offset (xyz 0.1 0 0))
-    (scale (xyz 1 1 1))
+    (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
     (rotate (xyz 0 0 0))
   )
 )
