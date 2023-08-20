@@ -70,3 +70,10 @@ A generic 0505S isolated DC/DC converter housing that is compatible with modules
 
 ![tie hook rendering](assets/generic_0505S.png)
 [[3d model file]](3d_model_source/Generic_0505S.FCStd)
+
+### FTSH-105-01-F-DV-K
+
+A 1.27mm IDC receptacle with the minimal shrouding to make sure the connector can only be plugged in one way. Is a perfect receptacle for a programming interface.
+
+![FTSH-105-01-F-DV-K rendering](assets/FTSH-105-01-F-DV-K.png)
+[[external 3d model source]](hhttps://www.samtec.com/de/products/ftsh-105-01-l-dv-k)
