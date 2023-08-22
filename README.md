@@ -89,6 +89,13 @@ A 3-pin JST compatible SMD connector. The pitch is a bit smaller (2.5mm instead 
 [[external 3d model source]](https://www.helloxkb.com/Home/Goods/goodsInfo/id/8209/canmes_three/1) //
 [[3d model file]](3d_model_source/X8821WRS-03-9TSN.FCStd)
 
+### Wcon 2321-210MG0CUNR1
+
+A very low profile 1.27mm pitch pin socket. To achieve such low profile, this connector needs cutouts in the PCB below.
+
+![Wcon 2321-210MG0CUNR1 rendering](assets/Wcon_2321-210MG0CUNR1.png)
+[[3d model file]](3d_model_source/Wcon_2321-210MG0CUNR1.FCStd)
+
 ## Standard Colors
 
 To make it consistent there are standard colors:
