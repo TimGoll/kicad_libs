@@ -96,6 +96,13 @@ A very low profile 1.27mm pitch pin socket. To achieve such low profile, this co
 ![Wcon 2321-210MG0CUNR1 rendering](assets/Wcon_2321-210MG0CUNR1.png)
 [[3d model file]](3d_model_source/Wcon_2321-210MG0CUNR1.FCStd)
 
+### 10 Pin 2.54mm Shrouded Pin Header
+
+Used for programmers like the STLink v2 clones. It is a useful connector because it is based on standard connectors with the optional added polarity protection.
+
+![shrouded pin header rendering](assets/shrouded_pin_header_x10.png)
+[[3d model file]](3d_model_source/pinheader_shrouded_10.FCStd)
+
 ## Standard Colors
 
 To make it consistent there are standard colors:
