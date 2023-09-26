@@ -64,7 +64,8 @@ Footprint for a [TagConnect 2030](https://www.tag-connect.com/product/tc2030-ctx
 A Footprint for a typical USB 3.1 Type-C receptacle.
 
 ![USB TypeC rendering](assets/USB-TypeC-3.1-SMD.png)
-[[external 3d model source]](https://grabcad.com/library/usb-type-c-smd-12pin-smd-1)
+[[external 3d model source]](https://grabcad.com/library/usb-type-c-smd-12pin-smd-1) //
+[[3d model file]](3d_model_source/USB_type_C_smd_12ps038.FCStd)
 
 ### Generic 0505S
 
