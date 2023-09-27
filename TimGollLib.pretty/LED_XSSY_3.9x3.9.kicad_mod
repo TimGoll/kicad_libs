@@ -27,7 +27,7 @@
     (thermal_bridge_angle 45) (tstamp 9017a347-e063-4fe3-97c8-bebbbe221686))
   (model "${TIMGOLLLIB_FOOTPRINTS}/XSSY_3.9x3.9.wrl"
     (offset (xyz 0 0 0))
-    (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

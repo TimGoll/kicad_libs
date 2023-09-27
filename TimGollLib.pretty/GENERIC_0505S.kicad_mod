@@ -51,7 +51,7 @@
   (pad "6" thru_hole circle (at 3.18 5.09) (size 1.85 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 55c0ec30-fe06-4413-8ae6-d572538bb1f0))
   (model "${TIMGOLLLIB_FOOTPRINTS}/Generic_0505S.wrl"
     (offset (xyz 1.14 -0.15 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
 )

@@ -21,7 +21,7 @@
     (thermal_bridge_angle 45) (tstamp e7e9ba29-9123-40ad-af25-0a66eee8a2f8))
   (model "${TIMGOLLLIB_FOOTPRINTS}/tie-hook.wrl"
     (offset (xyz 0.1 0 0))
-    (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

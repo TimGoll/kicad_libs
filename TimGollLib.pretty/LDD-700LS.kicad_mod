@@ -75,7 +75,7 @@
     (thermal_bridge_angle 45) (tstamp 9334e817-9400-45f7-9a6c-ef0ecb1e51e4))
   (pad "16" smd rect (at 6.075 -8.89 90) (size 0.9 1.55) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp d591522d-6c60-4e3c-b181-420e065e374d))
-  (model "${TIMGOLLLIB_FOOTPRINTS}/LDD-700LS.stp"
+  (model "${TIMGOLLLIB_FOOTPRINTS}/LDD-700LS.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

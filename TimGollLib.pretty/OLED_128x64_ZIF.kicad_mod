@@ -136,7 +136,7 @@
   (pad "MP2" smd rect (at 8.79 0.5) (size 2 3) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 694dd041-447d-4747-bf2b-0b626b3049ba))
   (model "${TIMGOLLLIB_FOOTPRINTS}/128x64_oled_display_1.6mm.wrl"
     (offset (xyz 0 3.5 0))
-    (scale (xyz 0.385 0.385 0.394))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

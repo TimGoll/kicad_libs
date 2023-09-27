@@ -37,7 +37,7 @@ A basic tie hook that can be used to connect an oscilloscope probe or as a hook 
 An off the shelf 700mA LED driver package by Meanwell.
 
 ![LDD 700LS rendering](assets/ldd-700ls.png)
-[[external 3d model source]](https://ms.componentsearchengine.com/detail.html?searchString=LDD-700LS&manuf=Mean%20Well&country=GB&language=en&source=1)
+[[external 3d model source]](https://ms.componentsearchengine.com/detail.html?searchString=LDD-700LS&manuf=Mean%20Well&country=GB&language=en&source=1) // [[3d model file]](3d_model_source/LDD-700LS.FCStd)
 
 ### Generic LED XSSY 3.9x3.9
 
@@ -64,8 +64,7 @@ Footprint for a [TagConnect 2030](https://www.tag-connect.com/product/tc2030-ctx
 A Footprint for a typical USB 3.1 Type-C receptacle.
 
 ![USB TypeC rendering](assets/USB-TypeC-3.1-SMD.png)
-[[external 3d model source]](https://grabcad.com/library/usb-type-c-smd-12pin-smd-1) //
-[[3d model file]](3d_model_source/USB_type_C_smd_12ps038.FCStd)
+[[external 3d model source]](https://grabcad.com/library/usb-type-c-smd-12pin-smd-1) // [[3d model file]](3d_model_source/USB_type_C_smd_12ps038.FCStd)
 
 ### Generic 0505S
 
@@ -79,16 +78,14 @@ A generic 0505S isolated DC/DC converter housing that is compatible with modules
 A 1.27mm IDC receptacle with the minimal shrouding to make sure the connector can only be plugged in one way. Is a perfect receptacle for a programming interface.
 
 ![FTSH-105-01-F-DV-K rendering](assets/FTSH-105-01-F-DV-K.png)
-[[external 3d model source]](https://www.samtec.com/de/products/ftsh-105-01-l-dv-k) //
-[[3d model file]](3d_model_source/FTSH-105-01-F-DV-K.FCStd)
+[[external 3d model source]](https://www.samtec.com/de/products/ftsh-105-01-l-dv-k) // [[3d model file]](3d_model_source/FTSH-105-01-F-DV-K.FCStd)
 
 ### X8821WRS-03-9TSN
 
 A 3-pin JST compatible SMD connector. The pitch is a bit smaller (2.5mm instead of 2.54mm) but it works for 2 or 3 pins wide connectors.
 
 ![X8821WRS-03-9TSN rendering](assets/X8821WRS-03-9TSN.png)
-[[external 3d model source]](https://www.helloxkb.com/Home/Goods/goodsInfo/id/8209/canmes_three/1) //
-[[3d model file]](3d_model_source/X8821WRS-03-9TSN.FCStd)
+[[external 3d model source]](https://www.helloxkb.com/Home/Goods/goodsInfo/id/8209/canmes_three/1) // [[3d model file]](3d_model_source/X8821WRS-03-9TSN.FCStd)
 
 ### Wcon 2321-210MG0CUNR1
 

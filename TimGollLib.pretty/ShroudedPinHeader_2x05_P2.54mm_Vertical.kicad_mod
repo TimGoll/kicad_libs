@@ -43,7 +43,7 @@
   (pad "10" thru_hole oval (at 1.27 5.08) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 59efc5fa-a76b-45f3-800c-3513da7f1327))
   (model "${TIMGOLLLIB_FOOTPRINTS}/pinheader_shrouded_10.wrl"
     (offset (xyz 0 0 0))
-    (scale (xyz 0.3937007874 0.3937007874 0.3937007874))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
 )
