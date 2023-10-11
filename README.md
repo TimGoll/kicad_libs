@@ -108,6 +108,13 @@ A BNC connector like [this one](https://www.lcsc.com/product-detail/RF-Connector
 ![BNC connector rendering](assets/BNC_50_right_angle_connector.png)
 [[external 3d model source]](https://www.traceparts.com/de/product/allied-electronics-automation-te-connectivity-right-angle-50o-through-hole-bnc-connector-jack-solder-termination-nickel?CatalogPath=TRACEPARTS%3ATP10016001003005&Product=10-11012018-142936&PartNumber=5-1634513-1) // [[3d model file]](3d_model_source/BNC_50_right_angle_connector.FCStd)
 
+### SMA Female Straight Connector
+
+A SMA connector like [this one](https://www.lcsc.com/product-detail/RF-Connectors-Coaxial-Connectors_BAT-WIRELESS-BWSMA-KE-Z001_C496549.html) that can be mounted on a PCB.
+
+![SMA connector rendering](assets/SMA_female_straight.png)
+[[external 3d model source]](https://www.traceparts.com/de/product/rs-components-sma-smajack-gerade-50o-lotenanschluss-leiterplattenmontage?CatalogPath=TRACEPARTS%3ATP10016001003017&Product=10-08112019-128027&PartNumber=73251-3140) // [[3d model file]](3d_model_source/SMA_female_straight_pcb.FCStd)
+
 ## Standard Colors
 
 To make it consistent there are standard colors:
