@@ -101,6 +101,13 @@ Used for programmers like the STLink v2 clones. It is a useful connector because
 ![shrouded pin header rendering](assets/shrouded_pin_header_x10.png)
 [[3d model file]](3d_model_source/pinheader_shrouded_10.FCStd)
 
+### BNC50 Right Angle Connector
+
+A BNC connector like [this one](https://www.lcsc.com/product-detail/RF-Connectors-Coaxial-Connectors_dosinconn-DOSIN-801-0050_C521210.html) that can be mounted on a PCB.
+
+![BNC connector rendering](assets/BNC_50_right_angle_connector.png)
+[[external 3d model source]](https://www.traceparts.com/de/product/allied-electronics-automation-te-connectivity-right-angle-50o-through-hole-bnc-connector-jack-solder-termination-nickel?CatalogPath=TRACEPARTS%3ATP10016001003005&Product=10-11012018-142936&PartNumber=5-1634513-1) // [[3d model file]](3d_model_source/BNC_50_right_angle_connector.FCStd)
+
 ## Standard Colors
 
 To make it consistent there are standard colors:
