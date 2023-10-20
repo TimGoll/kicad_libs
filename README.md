@@ -117,10 +117,17 @@ A SMA connector like [this one](https://www.lcsc.com/product-detail/RF-Connector
 
 ### TE MicroMaTch 8-338069-0
 
-A latched self-locking board-to-wire [conenctor from TE](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_TE-Connectivity-8-338069-0_C306129.html).
+A keyed self-locking board-to-wire [conenctor from TE](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_TE-Connectivity-8-338069-0_C306129.html).
 
 ![te connector rendering](assets/TE_MicroMaTch_8-338069-0.png)
 [[external 3d model source]](https://www.te.com/de/product-8-338069-0.html) // [[3d model file]](3d_model_source/TE_MicroMaTch_8-338069-0.FCStd)
+
+### Relay HF33F - Type C
+
+Based on KiCads `Relay_SPDT_Omron-G5Q-1` footprint this updated version features a 3D model.
+
+![hf33f relay rendering](assets/Relay_HF33F_C.png)
+[[3d model file]](3d_model_source/Relay_HF33F_C.FCStd)
 
 ## Standard Colors
 
