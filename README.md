@@ -115,6 +115,13 @@ A SMA connector like [this one](https://www.lcsc.com/product-detail/RF-Connector
 ![SMA connector rendering](assets/SMA_female_straight.png)
 [[external 3d model source]](https://www.traceparts.com/de/product/rs-components-sma-smajack-gerade-50o-lotenanschluss-leiterplattenmontage?CatalogPath=TRACEPARTS%3ATP10016001003017&Product=10-08112019-128027&PartNumber=73251-3140) // [[3d model file]](3d_model_source/SMA_female_straight_pcb.FCStd)
 
+### TE MicroMaTch 8-338069-0
+
+A latched self-locking board-to-wire [conenctor from TE](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_TE-Connectivity-8-338069-0_C306129.html).
+
+![te connector rendering](assets/TE_MicroMaTch_8-338069-0.png)
+[[external 3d model source]](https://www.te.com/de/product-8-338069-0.html) // [[3d model file]](3d_model_source/TE_MicroMaTch_8-338069-0.FCStd)
+
 ## Standard Colors
 
 To make it consistent there are standard colors:
@@ -125,6 +132,6 @@ To make it consistent there are standard colors:
 | Mold Resin | 38 | 37 | 37 |
 | Beige Plastic | 228 | 227 | 207 |
 | Gold Flashing | 219 | 188 | 126 |
-|  |  |  |  |
+| TE Red | 255 | 55 | 55 |
 
 All colors are extracted from the [original KiCAD 3D models](https://kicad.github.io/packages3d/).
