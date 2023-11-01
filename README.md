@@ -124,10 +124,17 @@ A keyed self-locking board-to-wire [conenctor from TE](https://www.lcsc.com/prod
 
 ### Relay HF33F - Type C
 
-Based on KiCads `Relay_SPDT_Omron-G5Q-1` footprint this updated version features a 3D model.
+Based on KiCad's `Relay_SPDT_Omron-G5Q-1` footprint this updated version features a 3D model.
 
 ![hf33f relay rendering](assets/Relay_HF33F_C.png)
 [[3d model file]](3d_model_source/Relay_HF33F_C.FCStd)
+
+### Mouser microSD
+
+Micro SD card reader with a spring holder.
+
+![sd card rendering](assets/mouser_microSD_1040310811.png)
+[[external 3d model source]](https://www.mouser.de/ProductDetail/Molex/104031-0811?qs=udsGRKD4nA3Tvy7wqky%252BuA%3D%3D) // [[3d model file]](3d_model_source/mouser_microSD_1040310811.FCStd)
 
 ## Standard Colors
 
