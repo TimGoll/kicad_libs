@@ -1,4 +1,4 @@
-(footprint "mouser_microSD_1040310811" (version 20221018) (generator pcbnew)
+(footprint "Molex_microSD_1040310811" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "1040310811")
   (tags "Connector")

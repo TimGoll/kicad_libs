@@ -129,7 +129,7 @@ Based on KiCad's `Relay_SPDT_Omron-G5Q-1` footprint this updated version feature
 ![hf33f relay rendering](assets/Relay_HF33F_C.png)
 [[3d model file]](3d_model_source/Relay_HF33F_C.FCStd)
 
-### Mouser microSD
+### Molex microSD
 
 Micro SD card reader with a spring holder.
 
