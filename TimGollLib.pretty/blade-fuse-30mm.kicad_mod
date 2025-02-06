@@ -1,0 +1,169 @@
+(footprint "blade-fuse-30mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -5.334 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3d197b28-4aa4-40e1-a8b7-d70285775577")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "blade-fuse-30mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "344b5a3c-567e-4c6e-9da9-c42e89abfab9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2de1ecf-fdf6-45b5-8200-579787c2d686")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98761ac2-9d65-4fc3-8aca-f36ce511c660")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5aee78e5-fac1-44f1-a2f5-e81061e0a694")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Current" "0A"
+		(at 0 5.461 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7fe80890-7c91-4d73-8711-7d064d238ddd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -10 0)
+		(end 10 0)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "83e662e2-393a-4fa0-8170-7fb61c86143c")
+	)
+	(fp_line
+		(start -7 -6.5)
+		(end 7 -6.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f1d8f272-c94c-4ec4-b973-79f7fb9b1fa3")
+	)
+	(fp_line
+		(start -7 6.5)
+		(end 7 6.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "578a6b99-7e23-419f-a737-0ac9186a4b5e")
+	)
+	(fp_rect
+		(start -5 -1)
+		(end 5 1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "14aa71cf-9fdf-43f2-ac68-47c48c3254c8")
+	)
+	(fp_circle
+		(center -15 0)
+		(end -14.873 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "a16ac309-71a2-48b1-b0de-b655f6d81c49")
+	)
+	(fp_circle
+		(center 15 0)
+		(end 15.127 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "56f6ec5d-fc7a-47c6-a3c9-4f3580df20cf")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -5.334 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "77a19fc9-2a31-4c79-924d-8a98ccebecce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(model "${TIMGOLLLIB_FOOTPRINTS}/blade-fuse-30mm.wrl"
+		(offset
+			(xyz 0 0 5.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
