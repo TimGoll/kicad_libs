@@ -1,0 +1,265 @@
+(footprint "Sinhoo_SMTSO4020"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -5.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b1be4a21-91ec-4a17-a064-d1cf451f5f1c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Sinhoo_SMTSO4020"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "02836feb-0a3c-4885-bae2-0d3623598c9d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/C2916373.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15484644-c0aa-4923-9220-175dc1282090")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b24b3ad3-01ed-40a7-b0ec-177076e55f3d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -4 0)
+		(end -4 -0.75)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "89e47766-19c9-47db-8cb9-3542fc14322d")
+	)
+	(fp_circle
+		(center -3.695518 -1.530734)
+		(end -3.695518 -2.280734)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "90e495d7-02c7-416d-8cc0-73147a6dbc21")
+	)
+	(fp_circle
+		(center -3.695518 1.530734)
+		(end -3.695518 0.780734)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "6f6e6d94-a0c0-432d-a394-3c560784dde3")
+	)
+	(fp_circle
+		(center -2.828427 -2.828427)
+		(end -2.828427 -3.578427)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "e5c68073-283c-4413-801a-5efefd7984e0")
+	)
+	(fp_circle
+		(center -2.828427 2.828427)
+		(end -2.828427 2.078427)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "06ce5d16-5bdb-4fbc-933d-edd872356418")
+	)
+	(fp_circle
+		(center -1.530734 -3.695518)
+		(end -1.530734 -4.445518)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "47c7d0ab-25b5-4732-9b87-72a62a16bb3e")
+	)
+	(fp_circle
+		(center -1.530734 3.695518)
+		(end -1.530734 2.945518)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "76b1db30-438e-42a9-b5fb-3ee6be02d5f0")
+	)
+	(fp_circle
+		(center 0 -4)
+		(end 0 -4.75)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "65413f66-003a-4056-a757-20122a109c95")
+	)
+	(fp_circle
+		(center 0 4)
+		(end 0 3.25)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "e90e9ff9-feeb-4236-9d3a-77a89ce67f6c")
+	)
+	(fp_circle
+		(center 1.530734 -3.695518)
+		(end 1.530734 -4.445518)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "eac15b3d-56ec-47c6-b966-4f8dea86bc0f")
+	)
+	(fp_circle
+		(center 1.530734 3.695518)
+		(end 1.530734 2.945518)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "ab9ff306-e20e-493d-90bf-894a7c929ad9")
+	)
+	(fp_circle
+		(center 2.828427 -2.828427)
+		(end 2.828427 -3.578427)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "6f898201-5ecd-41a7-8aa8-27cc286290d8")
+	)
+	(fp_circle
+		(center 2.828427 2.828427)
+		(end 2.828427 2.078427)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "845e56d9-5db8-4f85-8b50-8828c15d612f")
+	)
+	(fp_circle
+		(center 3.695518 -1.530734)
+		(end 3.695518 -2.280734)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "467a6174-f484-41a2-b909-bf49b0f50c7d")
+	)
+	(fp_circle
+		(center 3.695518 1.530734)
+		(end 3.695518 0.780734)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "d974f159-60cf-44f8-ba95-cb6ff7cfdb19")
+	)
+	(fp_circle
+		(center 4 0)
+		(end 4 -0.75)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "df0a81c5-91eb-4d0d-912b-4de87df3bf50")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -5.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d4d06fba-4acd-45be-bf52-965347e1a771")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 9.5 9.5)
+		(drill 6.35)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "052bbe6b-f7d8-4c19-9eb2-507ef615017e")
+	)
+	(embedded_fonts no)
+	(model "${TIMGOLLLIB_FOOTPRINTS}/SMTSO4020.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
